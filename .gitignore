@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# local source material, not part of the site
+/Karan_Longani_Resume_Updated.pdf
+/DealHub_Project_Summary.docx
